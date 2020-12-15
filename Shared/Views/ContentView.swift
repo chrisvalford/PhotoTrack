@@ -1,6 +1,6 @@
 //
 //  ContentView.swift
-//  Shared
+//  PhotoTrack
 //
 //  Created by Christopher Alford on 15.12.20.
 //

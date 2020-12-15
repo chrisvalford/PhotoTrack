@@ -1,6 +1,6 @@
 //
 //  PhotoTrackApp.swift
-//  Shared
+//  PhotoTrack
 //
 //  Created by Christopher Alford on 15.12.20.
 //
@@ -11,7 +11,7 @@ import SwiftUI
 struct PhotoTrackApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ShowPhotoMetaDataView()
         }
     }
 }
